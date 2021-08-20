@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "Page2.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -60,17 +60,17 @@
         "url": "https://fonts.googleapis.com/css?family=Noto+Serif+JP:200,300,400,500,600,700,900"
       }
     ],
-    "uniqCompNum": 60,
+    "uniqCompNum": 65,
     "versionPublish": "5.3.10",
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "alibjcv9tp",
+    "mbrsiteDomain": "yjsiyeuira",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "gdpr": false,
     "cookiesAlert": false
   },
@@ -1093,7 +1093,7 @@
         }
       ]
     },
-    "page1.html": {
+    "Page1.html": {
       "settings": {
         "title": "hasil foto kami",
         "order": 1
@@ -2447,7 +2447,7 @@
         }
       ]
     },
-    "page2.html": {
+    "Page2.html": {
       "settings": {
         "title": "hasil video kami",
         "order": 2
