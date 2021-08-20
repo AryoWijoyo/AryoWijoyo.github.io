@@ -65,25 +65,14 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "qtsvaugbeh",
+    "mbrsiteDomain": "alibjcv9tp",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "cookiesAlert": {
-      "customDialogSelector": false,
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "99",
-      "opacityOverlay": "80",
-      "text": "Sabar Dulu Ya Nunggu Waktunya Sampai Habis",
-      "textButton": "Agree"
-    },
-    "publishChangesOnly": false,
-    "gdpr": false
+    "publishChangesOnly": true,
+    "gdpr": false,
+    "cookiesAlert": false
   },
   "pages": {
     "home.html": {
